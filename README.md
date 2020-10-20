@@ -7,7 +7,7 @@ This is a simple library that contains a function to asset conditions.
 ## Installation
 
 ```
-composer require mh-ing/assert:~0.2
+composer require mh-ing/assert:dev-master
 ```
 
 ## Usage

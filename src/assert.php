@@ -18,7 +18,7 @@ use OutOfBoundsException;
  * @param Exception $exception
  * @return null
  */
-function assert($condition, Exception $exception = null)
+function assertion($condition, Exception $exception = null)
 {
     if ($condition) {
         return null;
